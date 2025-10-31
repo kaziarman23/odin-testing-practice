@@ -104,7 +104,7 @@ Example test cases include:
 
 ## ✍️ Author
 
-**Your Name**
+**Kazi Arman**
 📧 [kaziarman@proton.me](mailto:kaziarman@proton.me)
 🌐 [https://github.com/kaziarman23](https://github.com/kaziarman23)
 
